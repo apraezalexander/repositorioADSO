@@ -1,2 +1,3 @@
-esta es un nuevo ejemplo para una segunda versión 
-para la evidencia de la actividad sobre modificación de versionamiento  
+esta es un nuevo ejemplo para una tercera versión para aprender a manejar git local
+para la evidencia de la actividad sobre modificación de versionamiento
+..  
