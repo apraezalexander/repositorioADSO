@@ -1,3 +1,3 @@
 esta es un nuevo ejemplo para una tercera versión para aprender a manejar git local
 para la evidencia de la actividad sobre modificación de versionamiento
- vamos a ver si este intento funciona 
+ vamos a ver si este intento funciona  version dos 
